@@ -50,11 +50,11 @@ German web and social media texts.
 
 ### Key publications ###
 
-- [@Proisl_Uhrig_EmpiriST:2016]
-- [@Kabashi_Proisl_LREC:2016]
-- [@Proisl_et_al_SemEval:2014]
-- [@Evert_et_al_SemEval:2014]
-- [@Proisl_et_al_SemEval:2013]
+- [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
+- [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib)]
+- [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib)]
+- [@Evert_et_al_SemEval:2014] [[bib](bib/Evert_et_al_SemEval:2014.bib)]
+- [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib)]
 
 
 ## Cooccurrence phenomena ##
@@ -83,9 +83,9 @@ structures, e.g. dependency graphs.
 
 ### Key publications ###
 
-- [@Evert_et_al_eLex:2017]
-- [@Uhrig_Proisl_Lexicographica:2012]
-- [@Proisl_Uhrig_LREC:2012]
+- [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib)]
+- [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib)]
+- [@Proisl_Uhrig_LREC:2012] [[bib](bib/Proisl_Uhrig_LREC:2012.bib)]
 
 
 ## Stylometry and Digital Humanities##
@@ -99,6 +99,6 @@ complexity.
 
 ### Key publications ###
 
-- [@Evert_et_al_DSH:2017]
-- [@Evert_et_al_DHd:2016]
-- [@Evert_et_al_CLfL:2015]
+- [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
+- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib)]
+- [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]
