@@ -1,7 +1,7 @@
 ---
 title: Research
 author: Thomas Proisl
-bibliography: ../../Dokumente/proisl_bibliography.bib
+bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
