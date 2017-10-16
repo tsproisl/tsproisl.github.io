@@ -23,7 +23,10 @@ Germany
 
 E-mail: [thomas.proisl@fau.de](mailto:thomas.proisl@fau.de) \
 Phone: +49 9131 85 25908 \
-Fax: +49 9131 85 29251 \
+Fax: +49 9131 85 29251
 
+[LinkedIn](https://www.linkedin.com/in/thomas-proisl) ·
+[Xing](https://www.xing.com/profile/Thomas_Proisl) ·
+[GitHub](https://github.com/tsproisl)
 
 <!-- ## News ## -->
