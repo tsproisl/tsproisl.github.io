@@ -1,0 +1,22 @@
+<script src="jquery-3.2.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $(function(){
+  var url = window.location.href;
+    $("nav a").each(function() {
+      if (url == (this.href)) {
+        $(this).addClass("current");
+      }
+    });
+  });
+</script>
+
+<header class="navigation">
+  <h1>Thomas Proisl</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="research.html">Research</a>
+    <a href="publications.html">Publications</a>
+    <a href="software.html">Software</a>
+    <a href="teaching.html">Teaching</a>
+  </nav>
+</header>
