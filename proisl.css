@@ -7,7 +7,7 @@
 #portrait {
     float: right;
     margin-left: 1em;
-    width: 19em;
+    max-width: 38%;
 }
 
 body {
