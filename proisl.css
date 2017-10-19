@@ -36,13 +36,11 @@ a:visited {
 
 header.navigation {
     /* overflow: hidden; */
-    /* background-color: #FFBF00; */
     background-color: #1E90FF;
 }
 
 header.navigation h1 {
     /* display: block; */
-    /* color: white; */
     color: #AED7FF;
     text-align: left;
     padding: 0.5em 0.75em;
@@ -63,8 +61,6 @@ nav {
     /* margin: 0; */
     /* padding: 0; */
     overflow: hidden;
-    /* background-color: #0B61A4; */
-    /* background-color: #6D8BE4; */
     background-color: #6CB7FF;
     border-style: solid none none none;
     border-color: white;
@@ -74,7 +70,6 @@ nav {
 nav a {
     float: left;
     display: block;
-    /* color: white; */
     color: #1649E1;
     text-align: center;
     padding: 0.5em 0.75em;
@@ -82,23 +77,19 @@ nav a {
 }
 
 nav a:hover:not(.current) {
-    /* background-color: #2F74AA; */
     background-color: #063868;
     color: #AED7FF;
 }
 
 nav a:link {
-    /* color: white; */
     color: #063868;
 }
 
 nav a:visited {
-    /* color: white; */
     color: #063868;
 }
 
 .current {
-    /* background-color: #084B7F; */
     background-color: #036CD2;
     color: #AED7FF;
 }
