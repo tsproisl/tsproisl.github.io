@@ -3,7 +3,7 @@ title: Welcome
 author: Thomas Proisl
 ---
 
-<!-- ![Photograph of Thomas Proisl](thomas_proisl.png){#portrait} -->
+![Thomas Proisl](thomas_proisl.jpg){#portrait}
 I am a computational linguist working as a researcher at the
 [Professur für Korpuslinguistik](http://www.linguistik.fau.de) of the
 [FAU Erlangen-Nürnberg](http://www.fau.de).
