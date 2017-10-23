@@ -100,5 +100,5 @@ complexity.
 ### Key publications ###
 
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
-- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib)]
+- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib), [pdf](pdf/evert_et_al_2016_dhd.pdf)]
 - [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]

@@ -5,8 +5,6 @@ bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-<!-- pandoc -t html5 --filter pandoc-citeproc -s --include-before-body navigation.html -o software.html software.md -->
-
 ## Articles ##
 
 <!-- - [@Buettner_et_al_ZfdG:2017] -->
@@ -15,7 +13,7 @@ csl: chicago-author-date.csl
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
 - [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib)]
-- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib)]
+- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib), [pdf](pdf/evert_et_al_2016_dhd.pdf)]
 - [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]
 - [@Plotnikova_et_al_SemEval:2015] [[bib](bib/Plotnikova_et_al_SemEval:2015.bib)]
 - [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib)]
@@ -31,8 +29,8 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 - [@Evert_et_al_DH:2016] [[bib](bib/Evert_et_al_DH:2016.bib)]
-- [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib)]
-- [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib)]
+- [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_buettner_proisl_2016_philtag.pdf)]
+- [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_evert_proisl_2016_philtag.pdf)]
 - [@Proisl_DARIAH:2015] [[bib](bib/Proisl_DARIAH:2015.bib)]
 - [@Evert_et_al_CL:2015] [[bib](bib/Evert_et_al_CL:2015.bib)]
 - [@Bartsch_et_al_ICAME:2015] [[bib](bib/Bartsch_et_al_ICAME:2015.bib)]
