@@ -66,7 +66,7 @@ which Treebank.info can answer linguistic queries.
 
 Developed in collaboration with [Peter Uhrig](http://peter-uhrig.de).
 
-<https://launchpad.net/cwb-treebank>
+<https://github.com/tsproisl/CWB-treebank>
 
 
 ## Usurper ##

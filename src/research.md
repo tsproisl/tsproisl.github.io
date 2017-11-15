@@ -78,7 +78,7 @@ structures, e.g. dependency graphs.
   <http://treebank.info>.
 - [CWB-treebank](software.html#cwb-treebank): An efficient graph
   matching software for dependency graphs.
-  <https://launchpad.net/cwb-treebank>.
+  <https://github.com/tsproisl/CWB-treebank>.
 
 
 ### Key publications ###
