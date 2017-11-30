@@ -83,7 +83,7 @@ structures, e.g. dependency graphs.
 
 ### Key publications ###
 
-- [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib)]
+- [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/)]
 - [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib)]
 - [@Proisl_Uhrig_LREC:2012] [[bib](bib/Proisl_Uhrig_LREC:2012.bib)]
 
