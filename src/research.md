@@ -97,6 +97,14 @@ areas include authorship attribution and linguistic and stylistic
 complexity.
 
 
+### Software ###
+
+- [Linguistic and Stylistic
+  Complexity](software.html#linguistic-and-stylistic-complexity): A
+  collection of measures that assess the linguistic and stylistic
+  complexity of (literary) texts.
+  <https://github.com/tsproisl/Linguistic_and_Stylistic_Complexity>
+
 ### Key publications ###
 
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib), [alternative link](https://academic.oup.com/dsh/article/doi/10.1093/llc/fqx023/3865676/Understanding-and-explaining-Delta-measures-for?guestAccessKey=54b7daa4-be40-4687-880a-543d2b41254e)]

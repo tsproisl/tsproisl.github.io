@@ -58,6 +58,17 @@ Developed in collaboration with [Peter Uhrig](http://peter-uhrig.de).
 <http://treebank.info>
 
 
+## Linguistic and Stylistic Complexity ##
+
+This project is a collection of measures that assess the linguistic
+and stylistic complexity of (literary) texts.
+
+Developed in collaboration with other people working on the
+[Kallimachos](http://kallimachos.de) project.
+
+<https://github.com/tsproisl/Linguistic_and_Stylistic_Complexity>
+
+
 ## CWB-treebank ##
 
 CWB-treebank is an efficient graph matching software for dependency
