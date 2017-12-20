@@ -5,12 +5,16 @@ bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-## Articles ##
+## Journal articles ##
 
-<!-- - [@Buettner_et_al_ZfdG:2017] -->
+- [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
+- [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib), [alternative link](https://academic.oup.com/dsh/article/doi/10.1093/llc/fqx023/3865676/Understanding-and-explaining-Delta-measures-for?guestAccessKey=54b7daa4-be40-4687-880a-543d2b41254e)]
+- [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib)]
+
+## Articles in conference proceedings and collections ##
+
 - [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/)]
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
-- [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib), [alternative link](https://academic.oup.com/dsh/article/doi/10.1093/llc/fqx023/3865676/Understanding-and-explaining-Delta-measures-for?guestAccessKey=54b7daa4-be40-4687-880a-543d2b41254e)]
 - [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib)]
 - [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib)]
@@ -20,7 +24,6 @@ csl: chicago-author-date.csl
 - [@Evert_et_al_SemEval:2014] [[bib](bib/Evert_et_al_SemEval:2014.bib)]
 - [@Greiner_et_al_StarSem:2013] [[bib](bib/Greiner_et_al_StarSem:2013.bib)]
 - [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib)]
-- [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib)]
 - [@Proisl_Uhrig_LREC:2012] [[bib](bib/Proisl_Uhrig_LREC:2012.bib)]
 - [@Proisl_ICAME:2012] [[bib](bib/Proisl_ICAME:2012.bib)]
 - [@Proisl_Kabashi_LREC:2010] [[bib](bib/Proisl_Kabashi_LREC:2010.bib)]
