@@ -108,5 +108,5 @@ complexity.
 ### Key publications ###
 
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
-- [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib), [alternative link](https://academic.oup.com/dsh/article/doi/10.1093/llc/fqx023/3865676/Understanding-and-explaining-Delta-measures-for?guestAccessKey=54b7daa4-be40-4687-880a-543d2b41254e)]
+- [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
 - [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]
