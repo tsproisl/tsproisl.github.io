@@ -31,6 +31,7 @@ csl: chicago-author-date.csl
 
 ## Talks and presentations ##
 
+- [@Proisl_Evert_DHd:2018] [[bib](bib/Proisl_Evert_DHd:2018.bib), [poster](pdf/poster_proisl_evert_2018_dhd.pdf)]
 - [@Evert_et_al_DH:2016] [[bib](bib/Evert_et_al_DH:2016.bib), [pdf](pdf/abstract_evert_et_al_2016_dh.pdf)]
 - [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_buettner_proisl_2016_philtag.pdf)]
 - [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_evert_proisl_2016_philtag.pdf)]
