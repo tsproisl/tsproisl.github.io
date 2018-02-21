@@ -2,6 +2,9 @@
 
 BEFORE_BODY=navigation.html
 AFTER_BODY=footer.html
+TODAY=$(date --iso-8601=date)
+
+echo -e "<footer>\n  Last modified: $TODAY.\n</footer>" > "$AFTER_BODY"
 
 for f in *.md
 do
