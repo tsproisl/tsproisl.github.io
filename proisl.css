@@ -1,8 +1,11 @@
-/* main: 1E90FF */
-/* dark: 036CD2 */
-/* very dark: 063868 */
-/* light: 6CB7FF */
-/* very light: AED7FF */
+/* colors */
+:root {
+    --color_main: #1E90FF;
+    --color_dark: #036CD2;
+    --color_very_dark: #063868;
+    --color_light: #6CB7FF;
+    --color_very_light: #AED7FF;
+}
 
 #portrait {
     float: right;
@@ -19,36 +22,36 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #063868;
+    color: var(--color_very_dark);
 }
 
 strong {
-    color: #063868;
+    color: var(--color_very_dark);
 }
 
 a:link {
-    color: #036CD2;
+    color: var(--color_dark);
 }
 
 a:visited {
-    color: #063868;
+    color: var(--color_very_dark);
 }
 
 header.navigation {
     /* overflow: hidden; */
-    background-color: #1E90FF;
+    background-color: var(--color_main);
 }
 
 header.navigation h1 {
     /* display: block; */
-    color: #AED7FF;
+    color: var(--color_very_light);
     text-align: left;
     padding: 0.5em 0.75em;
     margin: 0;
 }
 
 header.navigation h1 a {
-    color: #AED7FF;
+    color: var(--color_very_light);
     text-decoration: none;
 }
 
@@ -61,7 +64,7 @@ nav {
     /* margin: 0; */
     /* padding: 0; */
     overflow: hidden;
-    background-color: #6CB7FF;
+    background-color: var(--color_light);
     border-style: solid none none none;
     border-color: white;
     border-width: 0.2em;
@@ -76,34 +79,34 @@ nav a {
 }
 
 nav a:hover:not(.current) {
-    background-color: #063868;
-    color: #AED7FF;
+    background-color: var(--color_very_dark);
+    color: var(--color_very_light);
 }
 
 nav a:link {
-    color: #063868;
+    color: var(--color_very_dark);
 }
 
 nav a:visited {
-    color: #063868;
+    color: var(--color_very_dark);
 }
 
 .current {
-    background-color: #036CD2;
-    color: #AED7FF;
+    background-color: var(--color_dark);
+    color: var(--color_very_light);
 }
 
 .current:link {
-    color: #AED7FF;
+    color: var(--color_very_light);
 }
 
 .current:visited {
-    color: #AED7FF;
+    color: var(--color_very_light);
 }
 
 footer {
     font-size: small;
-    background-color: #6CB7FF;
-    color: #063868;
+    background-color: var(--color_light);
+    color: var(--color_very_dark);
     padding: 0.5em 0.75em;
 }
