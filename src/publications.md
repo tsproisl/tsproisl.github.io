@@ -1,6 +1,7 @@
 ---
 title: Publications
 author: Thomas Proisl
+lang: en
 bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---

@@ -1,6 +1,7 @@
 ---
 title: Welcome
 author: Thomas Proisl
+lang: en
 ---
 
 ![Thomas Proisl](thomas_proisl.jpg){#portrait}

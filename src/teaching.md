@@ -1,6 +1,7 @@
 ---
 title: Teaching
 author: Thomas Proisl
+lang: en
 ---
 
 ## Linguistische Informatik ##
