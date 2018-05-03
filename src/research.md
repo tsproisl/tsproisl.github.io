@@ -51,10 +51,10 @@ German web and social media texts.
 
 ### Key publications ###
 
+- [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib)]
 - [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib)]
 - [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib)]
-- [@Evert_et_al_SemEval:2014] [[bib](bib/Evert_et_al_SemEval:2014.bib)]
 - [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib)]
 
 
@@ -108,6 +108,7 @@ complexity.
 
 ### Key publications ###
 
+- [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib)]
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
 - [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]
