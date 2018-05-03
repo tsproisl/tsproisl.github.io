@@ -14,6 +14,9 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
+- [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib)]
+- [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib)]
+- [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib)]
 - [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/)]
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib)]
 - [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
