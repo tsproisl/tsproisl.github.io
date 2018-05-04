@@ -4,10 +4,10 @@ author: Thomas Proisl
 lang: en
 ---
 
-![Thomas Proisl](thomas_proisl.jpg){#portrait}
-I am a computational linguist working as a researcher at the
-[Professur für Korpuslinguistik](http://www.linguistik.fau.de) of the
-[FAU Erlangen-Nürnberg](http://www.fau.de).
+![Thomas Proisl](thomas_proisl.jpg){#portrait} I am a computational
+linguist working as a researcher at the [Chair for Corpus and
+Computational Linguistics](http://www.linguistik.fau.de) of the [FAU
+Erlangen-Nürnberg](http://www.fau.de).
 
 Feel free to browse these pages to learn more about my research and
 teaching activities.
@@ -16,7 +16,7 @@ teaching activities.
 ## Contact ##
 
 Thomas Proisl \
-Professur für Korpuslinguistik \
+Lehrstuhl für Korpus- und Computerlinguistik \
 Friedrich-Alexander-Universität Erlangen-Nürnberg \
 Bismarckstr. 6 \
 91054 Erlangen \
