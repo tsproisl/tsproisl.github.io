@@ -16,8 +16,8 @@ teaching activities.
 ## Contact ##
 
 Thomas Proisl \
-Lehrstuhl für Korpus- und Computerlinguistik \
 Friedrich-Alexander-Universität Erlangen-Nürnberg \
+Lehrstuhl für Korpus- und Computerlinguistik \
 Bismarckstr. 6 \
 91054 Erlangen \
 Germany
