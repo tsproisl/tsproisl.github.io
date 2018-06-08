@@ -99,8 +99,8 @@ language independent and does not need any training data.
 ## Erlangen Valency Patternbank ##
 
 The Erlangen Valency Patternbank by [Thomas
-Herbst](https://www.anglistik.phil.fau.de/fields/engling/chair/) and
-[Peter Uhrig](http://peter-uhrig.de) is an online inventory of valency
+Herbst](https://www.angam.phil.fau.de/staff/herbst/) and [Peter
+Uhrig](http://peter-uhrig.de) is an online inventory of valency
 patterns based on the [*Valency Dictionary of
 English*](https://www.degruyter.com/view/product/48756). I was
 involved in the technical design and the implementation.
