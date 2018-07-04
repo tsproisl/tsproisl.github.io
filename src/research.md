@@ -39,7 +39,7 @@ German web and social media texts.
 ### Software ###
 
 - [SoMaJo](software.html#somajo): A state-of-the-art tokenizer and
-  sentence splitter for German web and social media texts.
+  sentence splitter for German and English web and social media texts.
   <https://github.com/tsproisl/SoMaJo>.
 - [SoMeWeTa](software.html#someweta): A part-of-speech tagger with
   support for domain adaptation and external resources that achieves
