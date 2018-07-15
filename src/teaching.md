@@ -6,8 +6,8 @@ lang: en
 
 ## Linguistische Informatik ##
 
+- Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS 2018)
 - Übung Grundlagen der Computerlinguistik 2 (SS 2018)
-- Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017)
 - Grundseminar Programmierung Python (SS 2013, SS 2016)
 - Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS 2017)
 - Fortgeschrittene statistische Methoden in der Korpuslinguistik (SS 2015)
