@@ -45,6 +45,7 @@ csl: chicago-author-date.csl
 - [@Proisl_DARIAH:2015] [[bib](bib/Proisl_DARIAH:2015.bib)]
 - [@Proisl_Uhrig_DGfS:2013] [[bib](bib/Proisl_Uhrig_DGfS:2013.bib), [pdf](pdf/abstract_proisl_uhrig_2013_dgfs.pdf)]
 - [@Proisl_Uhrig_ICAME:2012] [[bib](bib/Proisl_Uhrig_ICAME:2012.bib), [pdf](pdf/abstract_proisl_uhrig_2012_icame.pdf)]
+- [@Uhrig_Proisl_Bamberg:2012] [[bib](bib/Uhrig_Proisl_Bamberg:2012.bib)]
 - [@Uhrig_Proisl_GAL:2012] [[bib](bib/Uhrig_Proisl_GAL:2012.bib), [pdf](pdf/abstract_uhrig_proisl_2012_gal.pdf)]
 - [@Uhrig_Proisl_DHE:2012] [[bib](bib/Uhrig_Proisl_DHE:2012.bib)]
 - [@Proisl_Uhrig_GAL:2011] [[bib](bib/Proisl_Uhrig_GAL:2011.bib)]
