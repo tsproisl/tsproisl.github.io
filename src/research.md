@@ -51,11 +51,11 @@ German web and social media texts.
 
 ### Key publications ###
 
-- [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib)]
-- [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib)]
-- [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib)]
-- [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib)]
-- [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib)]
+- [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib), [pdf](pdf/proisl_2018_lrec.pdf)]
+- [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib), [pdf](pdf/proisl_uhrig_2016_empirist.pdf)]
+- [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib), [pdf](pdf/kabashi_proisl_2016_lrec.pdf)]
+- [@Proisl_et_al_SemEval:2014] [[bib](bib/Proisl_et_al_SemEval:2014.bib), [pdf](pdf/proisl_et_al_2014_semeval.pdf)]
+- [@Proisl_et_al_SemEval:2013] [[bib](bib/Proisl_et_al_SemEval:2013.bib), [pdf](pdf/proisl_et_al_2013_semeval.pdf)]
 
 
 ## Cooccurrence phenomena ##
@@ -84,9 +84,9 @@ structures, e.g. dependency graphs.
 
 ### Key publications ###
 
-- [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/)]
-- [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib)]
-- [@Proisl_Uhrig_LREC:2012] [[bib](bib/Proisl_Uhrig_LREC:2012.bib)]
+- [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/), [pdf](pdf/evert_et_al_2017_elex.pdf)]
+- [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib), [pdf](pdf/uhrig_proisl_2012_lexicographica.pdf)]
+- [@Proisl_Uhrig_LREC:2012] [[bib](bib/Proisl_Uhrig_LREC:2012.bib), [pdf](pdf/proisl_uhrig_2012_lrec.pdf)]
 
 
 ## Stylometry and Digital Humanities##
@@ -108,7 +108,7 @@ complexity.
 
 ### Key publications ###
 
-- [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib)]
+- [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib), [pdf](pdf/proisl_et_al_2018_lrec.pdf)]
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
-- [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib)]
+- [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib), [pdf](pdf/evert_et_al_2015_clfl.pdf)]
