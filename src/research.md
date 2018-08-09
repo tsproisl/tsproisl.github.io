@@ -30,10 +30,10 @@ of my research are:
 
 I have a strong interest in natural language processing (NLP). So far,
 I have been active in the following areas: tokenization,
-part-of-speech tagging, unsupervised dependency parsing, sentiment
-analysis, and semantic similarity. I am (co-)developer of two
-state-of-the-art tools (tokenizer and part-of-speech tagger) for
-German web and social media texts.
+part-of-speech tagging, unsupervised dependency parsing, semantic
+similarity, implicit emotion recognition and sentiment analysis. I am
+(co-)developer of two state-of-the-art tools (tokenizer and
+part-of-speech tagger) for German web and social media texts.
 
 
 ### Software ###
