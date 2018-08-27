@@ -16,8 +16,8 @@ lang: en
 - The corpus linguist's essential toolbox (SS 2013 (jointly with [Paul
   Greiner](https://www.paul-greiner.de/)), SS 2014)
 - Natural Language Processing with Perl (SS 2012)
-- Grundlagen der Computerlinguistik (WS 2011 (jointly with [Besim
-  Kabashi](http://besim-kabashi.net/)))
+- Übung Grundlagen der Computerlinguistik (WS 2011 (jointly with
+  [Besim Kabashi](http://besim-kabashi.net/)))
 - Einführung in die Grammatikentwicklung (WS 2011)
 - Grundkurs Java (SS 2011)
 - Aufbaukurs Java (WS 2011)
