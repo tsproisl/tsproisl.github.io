@@ -6,8 +6,8 @@ lang: en
 
 ![Thomas Proisl](thomas_proisl.jpg){#portrait} I am a computational
 linguist working as a researcher at the [Chair for Corpus and
-Computational Linguistics](http://www.linguistik.fau.de) of the [FAU
-Erlangen-Nürnberg](http://www.fau.de).
+Computational Linguistics](https://www.linguistik.fau.de) of the [FAU
+Erlangen-Nürnberg](https://www.fau.de).
 
 Feel free to browse these pages to learn more about my research and
 teaching activities.
