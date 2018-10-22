@@ -19,6 +19,7 @@ body {
     max-width: 50em;
     margin: auto;
     line-height: 1.5;
+    padding: 0 0.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
