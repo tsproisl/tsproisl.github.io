@@ -14,6 +14,7 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
+- [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 - [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
 - [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib), [pdf](pdf/proisl_2018_lrec.pdf)]
