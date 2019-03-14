@@ -4,7 +4,14 @@ author: Thomas Proisl
 lang: en
 ---
 
-## Linguistische Informatik ##
+## Computational Linguistics (Osnabrück) ##
+
+- Introduction to Computational Linguistics (SS 2019)
+- Corpus Linguistics (SS 2019)
+- Computational Linguistics for Spies (SS 2019)
+
+
+## Corpus and Computational Linguistics (Erlangen) ##
 
 - Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS
   2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)))
@@ -29,7 +36,7 @@ lang: en
 - Methoden des Textmining (SS 2009)
 
 
-## Anglistik: Linguistik ##
+## English Linguistics (Erlangen) ##
 
 - Introduction to Corpus Linguistics (SS 2012)
 - Doing empirical research with corpora (WS 2011)
