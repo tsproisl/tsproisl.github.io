@@ -14,6 +14,7 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
+- [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 - [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
@@ -37,6 +38,7 @@ csl: chicago-author-date.csl
 
 ## Talks and presentations ##
 
+- [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
 - [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
 - [@Evert_et_al_Euralex:2018] [[bib](bib/Evert_et_al_Euralex:2018.bib), [pdf](pdf/abstract_evert_et_al_2018_euralex.pdf)]
 - [@Proisl_Evert_DHd:2018] [[bib](bib/Proisl_Evert_DHd:2018.bib), [poster](pdf/poster_proisl_evert_2018_dhd.pdf), [pdf](pdf/abstract_proisl_evert_2018_dhd.pdf)]
