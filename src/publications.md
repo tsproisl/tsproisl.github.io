@@ -6,6 +6,10 @@ bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
+<!-- ## Books ## -->
+
+<!-- - [@Proisl:2019] [[bib](bib/Proisl:2019.bib)] -->
+
 ## Journal articles ##
 
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
