@@ -26,7 +26,7 @@ teaching activities.
 Thomas Proisl \
 Universität Osnabrück \
 Institut für Kognitionswissenschaft \
-Wachsbleiche 27 \
+Wachsbleiche 27, Raum 50/122 \
 49090 Osnabrück \
 Germany
 
