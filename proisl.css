@@ -56,6 +56,10 @@ header.navigation h1 a {
     text-decoration: none;
 }
 
+#menu_icon {
+    height: 0.7em;
+}
+
 header h2.author {
     display: none;
 }
@@ -90,6 +94,29 @@ nav a:link {
 
 nav a:visited {
     color: var(--color_very_dark);
+}
+
+header.navigation a.icon {
+    display: none;
+}
+
+/* When the screen is less than 30em wide, hide the navigation bar and
+   show the menu icon */
+@media screen and (max-width: 30em) {
+    nav.topnav {
+	display: none;
+    }
+    header.navigation a.icon {
+	float: right;
+	display: block;
+    }
+    /* Display the menu vertically when clicking on the icon (class
+       "responsive" is added dynamically using JavaScript) */
+    nav.topnav.responsive {display: block;}
+    nav.topnav.responsive a {
+  	float: none;
+  	text-align: left;
+    }
 }
 
 .current {

@@ -11,11 +11,25 @@
       }
     });
   });
+  /* Add/remove the "responsive" class when clicking on the menu icon */
+  function toggle_nav() {
+    var navi = document.getElementById("topnavid");
+    if (navi.className === "topnav") {
+      navi.className += " responsive";
+    } else {
+      navi.className = "topnav";
+    }
+  } 
 </script>
 
 <header class="navigation">
-  <h1><a href="https://thomas-proisl.de">Thomas Proisl</a></h1>
-  <nav>
+  <h1>
+    <a href="https://thomas-proisl.de">Thomas Proisl</a>
+    <a href="javascript:void(0);" class="icon" onclick="toggle_nav()">
+      <img src="menu_icon.svg" id="menu_icon"/>
+    </a>
+  </h1>
+  <nav class="topnav" id="topnavid">
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
     <a href="publications.html">Publications</a>
