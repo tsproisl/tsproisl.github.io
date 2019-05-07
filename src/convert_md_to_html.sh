@@ -17,4 +17,7 @@ done
 
 rm "$AFTER_BODY"
 
+sed -i -re 's!</title>$! – Thomas Proisl</title>!' ../*.html
+sed -i -re 's!(\s*)<title>Welcome – !\1<title>!' ../index.html
+
 python3 split_bibtex.py proisl_bibliography.bib
