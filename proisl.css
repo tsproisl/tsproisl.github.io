@@ -96,24 +96,24 @@ nav a:visited {
     color: var(--color_very_dark);
 }
 
-header.navigation a.icon {
+#menu_link_id {
     display: none;
 }
 
 /* When the screen is less than 30em wide, hide the navigation bar and
    show the menu icon */
 @media screen and (max-width: 30em) {
-    nav.topnav {
+    nav.topnav_js {
 	display: none;
     }
-    header.navigation a.icon {
+    #menu_link_id.menu_link_js {
 	float: right;
 	display: block;
     }
     /* Display the menu vertically when clicking on the icon (class
        "responsive" is added dynamically using JavaScript) */
-    nav.topnav.responsive {display: block;}
-    nav.topnav.responsive a {
+    nav.topnav_js.responsive {display: block;}
+    nav.topnav_js.responsive a {
   	float: none;
   	text-align: left;
     }
