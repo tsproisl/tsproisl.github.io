@@ -5,7 +5,7 @@ author: Thomas Proisl
 lang: en
 ---
 
-![Thomas Proisl](thomas_proisl.jpg){#portrait} I am working as an
+![Thomas Proisl](img/thomas_proisl.jpg){#portrait} I am working as an
 interim professor for Computational Linguistics and Cognitive Science
 at the [University of Osnabrück](https://www.uni-osnabrueck.de) during
 the summer semester 2019. For this, I am on leave from my position as
