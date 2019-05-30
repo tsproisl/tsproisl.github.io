@@ -1,5 +1,6 @@
 ---
 title: Research
+title-prefix: Thomas Proisl
 author: Thomas Proisl
 lang: en
 bibliography: proisl_bibliography.bib
