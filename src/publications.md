@@ -7,7 +7,7 @@ bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-- [Books](#books)
+<!-- - [Books](#books) -->
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
 - [Talks and presentations](#talks-and-presentations)
