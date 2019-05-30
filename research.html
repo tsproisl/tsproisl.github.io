@@ -20,6 +20,7 @@
     if (url == "https://thomas-proisl.de/" || url == "https://thomas-proisl.de") {
       url = "https://thomas-proisl.de/index.html"
     }
+    url = url.replace(/#.+$/, "");
     $("nav a").each(function() {
       if (url == (this.href)) {
         $(this).addClass("current");
