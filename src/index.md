@@ -9,13 +9,13 @@ lang: en
 interim professor for Computational Linguistics and Cognitive Science
 at the [University of Osnabrück](https://www.uni-osnabrueck.de) during
 the summer semester 2019. For this, I am on leave from my position as
-a reseacher at the [Chair for Corpus and Computational
+a postdoctoral reseacher at the [Chair for Corpus and Computational
 Linguistics](https://www.linguistik.fau.de) of the [FAU
 Erlangen-Nürnberg](https://www.fau.de).
 
-<!-- I am a computational -->
-<!-- linguist working as a researcher at the [Chair for Corpus and -->
-<!-- Computational Linguistics](https://www.linguistik.fau.de) of the [FAU -->
+<!-- I am a computational linguist working as a postdoctoral researcher at -->
+<!-- the [Chair for Corpus and Computational -->
+<!-- Linguistics](https://www.linguistik.fau.de) of the [FAU -->
 <!-- Erlangen-Nürnberg](https://www.fau.de). -->
 
 Feel free to browse these pages to learn more about my research and
@@ -24,7 +24,7 @@ teaching activities.
 
 ## Contact ##
 
-Thomas Proisl \
+Dr. Thomas Proisl \
 Universität Osnabrück \
 Institut für Kognitionswissenschaft \
 Wachsbleiche 27, Raum 50/122 \
@@ -35,7 +35,7 @@ E-mail: [thomas.proisl@uni-osnabrueck.de](mailto:thomas.proisl@uni-osnabrueck.de
 Phone: +49 541 969-3532 \
 Fax: +49 541 969-3381
 
-<!-- Thomas Proisl \ -->
+<!-- Dr. Thomas Proisl \ -->
 <!-- Friedrich-Alexander-Universität Erlangen-Nürnberg \ -->
 <!-- Lehrstuhl für Korpus- und Computerlinguistik \ -->
 <!-- Bismarckstr. 6 \ -->
