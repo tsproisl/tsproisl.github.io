@@ -7,14 +7,14 @@ bibliography: proisl_bibliography.bib
 csl: chicago-author-date.csl
 ---
 
-<!-- - [Books](#books) -->
+- [Books](#books)
 - [Journal articles](#journal-articles)
 - [Articles in conference proceedings and collections](#articles-in-conference-proceedings-and-collections)
 - [Talks and presentations](#talks-and-presentations)
 
-<!-- ## Books ## -->
+## Books ##
 
-<!-- - <div class="book"><div class="bibentry">[@Proisl:2019] [[bib](bib/Proisl:2019.bib)]</div><div class="cover">[![Proisl, Thomas. 2019. The Cooccurrence of Linguistic Structures. Erlangen: FAU University Press.](img/the_cooccurrence_of_linguistic_structures.jpg){.bookcover}](https://doi.org/10.25593/978-3-96147-201-7)</div> -->
+- <div class="book"><div class="bibentry">[@Proisl:2019] [[bib](bib/Proisl:2019.bib)]</div><div class="cover">[![Proisl, Thomas. 2019. The Cooccurrence of Linguistic Structures. Erlangen: FAU University Press.](img/the_cooccurrence_of_linguistic_structures.jpg){.bookcover}](https://doi.org/10.25593/978-3-96147-201-7)</div>
 
 ## Journal articles ##
 

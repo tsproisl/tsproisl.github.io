@@ -65,7 +65,8 @@ I am a member in the [Interdisciplinary Centre for Research on
 Lexicography, Valency and
 Collocation](http://www.lexi.uni-erlangen.de) and a substantial part
 of my research is about cooccurrence phenomena like collocations or
-collostructions. In my (not yet published) PhD thesis, I developed a
+collostructions. In my [PhD
+thesis](https://doi.org/10.25593/978-3-96147-201-7), I developed a
 formal model for analyzing cooccurrences of arbitrary linguistic
 structures, e.g. dependency graphs.
 
@@ -85,6 +86,7 @@ structures, e.g. dependency graphs.
 
 ### Key publications ###
 
+- [@Proisl:2019] [[bib](bib/Proisl:2019.bib)]
 - [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
 - [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/), [pdf](pdf/evert_et_al_2017_elex.pdf)]
 - [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib), [pdf](pdf/uhrig_proisl_2012_lexicographica.pdf)]
