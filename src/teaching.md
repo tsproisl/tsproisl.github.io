@@ -5,22 +5,17 @@ author: Thomas Proisl
 lang: en
 ---
 
-## Computational Linguistics (Osnabrück) ##
-
-- Introduction to Computational Linguistics (SS 2019)
-- Corpus Linguistics (SS 2019)
-- Computational Linguistics for Spies (SS 2019)
-
-
 ## Corpus and Computational Linguistics (Erlangen) ##
 
+- Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
+  WS 2019)
 - Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS
-  2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)))
+  2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)),
+  WS 2019)
 - Übung Grundlagen der Computerlinguistik 2 (SS 2018)
 - Grundseminar Programmierung Python (SS 2013, SS 2016)
 - Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS 2017)
 - Fortgeschrittene statistische Methoden in der Korpuslinguistik (SS 2015)
-- Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014)
 - The corpus linguist's essential toolbox (SS 2013 (jointly with [Paul
   Greiner](https://www.paul-greiner.de/)), SS 2014)
 - Natural Language Processing with Perl (SS 2012)
@@ -37,8 +32,37 @@ lang: en
 - Methoden des Textmining (SS 2009)
 
 
+## Computational Linguistics (Osnabrück) ##
+
+- Introduction to Computational Linguistics (SS 2019)
+- Corpus Linguistics (SS 2019)
+- Computational Linguistics for Spies (SS 2019)
+
+
 ## English Linguistics (Erlangen) ##
 
 - Introduction to Corpus Linguistics (SS 2012)
 - Doing empirical research with corpora (WS 2011)
 - Heavy rains and thunderstorms – Exploring English by means of electronic resources (SS 2009)
+
+
+<!-- ## Supervised theses ## -->
+
+<!-- ### Master's theses ### -->
+
+<!--   * Allison Moreno Drexler (2019) -->
+    
+<!-- 	Supervisors: Thomas Proisl, ??? -->
+
+<!-- ### Bachelor's theses ### -->
+
+<!--   * Maja Toebs (2019) -->
+    
+<!-- 	Supervisors: Thomas Proisl, Johannes Knabe -->
+<!--   * Jannis Rautenstrauch (2019) -->
+    
+<!--     Supervisors: Nico Potyka, Thomas Proisl -->
+<!--   * Cedric Waterschoot (2019): Political framing and sensationalism on -->
+<!--     American cable news: A corpus-based approach -->
+	
+<!-- 	Supervisors: Peter Uhrig, Thomas Proisl -->
