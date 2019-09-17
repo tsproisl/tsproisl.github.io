@@ -1,11 +1,16 @@
 ---
-title: Software
+title: Resources
 title-prefix: Thomas Proisl
 author: Thomas Proisl
 lang: en
 ---
 
-## SoMaJo ##
+- [Software](#software)
+- [Data Sets](#data-sets)
+
+## Software ##
+
+### SoMaJo ###
 
 SoMaJo is a state-of-the-art tokenizer and sentence splitter for
 German and English web and social media texts. It won the [EmpiriST
@@ -21,7 +26,7 @@ Developed in collaboration with [Peter Uhrig](http://peter-uhrig.de).
 <https://github.com/tsproisl/SoMaJo>
 
 
-## SoMeWeTa ##
+### SoMeWeTa ###
 
 SoMeWeTa is a part-of-speech tagger that supports domain adaptation
 and that can incorporate external sources of information such as Brown
@@ -45,7 +50,7 @@ highly competitive results close to the current state of the art.
 <https://github.com/tsproisl/SoMeWeTa>
 
 
-## Pareidoscope ##
+### Pareidoscope ###
 
 The Pareidoscope is a collection of tools for determining the
 association between arbitrary linguistic structures, e.g. between
@@ -55,7 +60,7 @@ or between larger linguistic structures such as dependency graphs.
 <https://github.com/tsproisl/Pareidoscope>
 
 
-## Treebank.info ##
+### Treebank.info ###
 
 Treebank.info is an intuitive, graphical web interface that allows
 linguists to search for dependency structures in corpora.
@@ -65,7 +70,7 @@ Developed in collaboration with [Peter Uhrig](http://peter-uhrig.de).
 <http://treebank.info>
 
 
-## Linguistic and Stylistic Complexity ##
+### Linguistic and Stylistic Complexity ###
 
 This project is a collection of measures that assess the linguistic
 and stylistic complexity of (literary) texts.
@@ -76,7 +81,7 @@ Developed in collaboration with other people working on the
 <https://github.com/tsproisl/Linguistic_and_Stylistic_Complexity>
 
 
-## CWB-treebank ##
+### CWB-treebank ###
 
 CWB-treebank is an efficient graph matching software for dependency
 graphs (stemmata). CWB-treebank is the main reason for the speed with
@@ -87,7 +92,7 @@ Developed in collaboration with [Peter Uhrig](http://peter-uhrig.de).
 <https://github.com/tsproisl/CWB-treebank>
 
 
-## Usurper ##
+### Usurper ###
 
 Usurper is an implementation of the unsupervised dependency parser
 described by [Søgaard
@@ -97,7 +102,7 @@ language independent and does not need any training data.
 <https://pypi.python.org/pypi/Usurper>
 
 
-## Erlangen Valency Patternbank ##
+### Erlangen Valency Patternbank ###
 
 The Erlangen Valency Patternbank by [Thomas
 Herbst](https://www.angam.phil.fau.de/staff/herbst/) and [Peter
@@ -107,3 +112,33 @@ English*](https://www.degruyter.com/view/product/48756). I was
 involved in the technical design and the implementation.
 
 <http://www.patternbank.uni-erlangen.de>
+
+
+## Data Sets ##
+
+### EmpiriST Corpus ###
+
+The EmpiriST corpus is a manually annotated corpus consisting of
+German web pages and German computer-mediated communication (CMC),
+i.e. written discourse. Examples for CMC genres are monologic and
+dialogic tweets, social and professional chats, threads from Wikipedia
+talk pages, WhatsApp interactions and blog comments.
+
+The dataset was originally created for the [EmpiriST 2015 shared
+task](https://sites.google.com/site/empirist2015/) ([Beißwenger et
+al., 2016](https://www.aclweb.org/anthology/W16-2606)) and featured
+manual tokenization and part-of-speech tagging. Subsequently, [Rehbein
+et al.
+(2018)](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_03.pdf)
+incorporated the dataset into their [harmonised testsuite for POS
+tagging of German social media
+data](https://www.cl.uni-heidelberg.de/~rehbein/tweeDe.mhtml),
+manually added sentence boundaries and automatically mapped the
+part-of-speech tags to [UD pos
+tags](https://universaldependencies.org/u/pos/all.html). In our own
+annotation efforts (Proisl et al., in preparation), we manually
+normalized and lemmatized the data and converted the corpus into a
+“vertical” format suitable for importing into the Open Corpus
+Workbench, CQPweb, SketchEngine, or similar corpus tools.
+
+<https://github.com/fau-klue/empirist-corpus>
