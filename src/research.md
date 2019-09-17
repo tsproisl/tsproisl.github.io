@@ -39,14 +39,14 @@ part-of-speech tagger) for German web and social media texts.
 
 ### Software ###
 
-- [SoMaJo](software.html#somajo): A state-of-the-art tokenizer and
+- [SoMaJo](resources.html#somajo): A state-of-the-art tokenizer and
   sentence splitter for German and English web and social media texts.
   <https://github.com/tsproisl/SoMaJo>.
-- [SoMeWeTa](software.html#someweta): A part-of-speech tagger with
+- [SoMeWeTa](resources.html#someweta): A part-of-speech tagger with
   support for domain adaptation and external resources that achieves
   state-of-the-art results on German web and social media texts.
   <https://github.com/tsproisl/SoMeWeTa>.
-- [Usurper](software.html#usurper): An unsupervised dependency parser.
+- [Usurper](resources.html#usurper): An unsupervised dependency parser.
   <https://pypi.python.org/pypi/Usurper>.
 
 
@@ -73,13 +73,13 @@ structures, e.g. dependency graphs.
 
 ### Software ###
 
-- [Pareidoscope](software.html#pareidoscope): A collection of tools
+- [Pareidoscope](resources.html#pareidoscope): A collection of tools
   for determining the association between arbitrary linguistic
   structures. <https://github.com/tsproisl/Pareidoscope>.
-- [Treebank.info](software.html#treebank.info): A web interface that
+- [Treebank.info](resources.html#treebank.info): A web interface that
   allows linguists to search for dependency structures in corpora.
   <http://treebank.info>.
-- [CWB-treebank](software.html#cwb-treebank): An efficient graph
+- [CWB-treebank](resources.html#cwb-treebank): An efficient graph
   matching software for dependency graphs.
   <https://github.com/tsproisl/CWB-treebank>.
 
@@ -105,7 +105,7 @@ complexity.
 ### Software ###
 
 - [Linguistic and Stylistic
-  Complexity](software.html#linguistic-and-stylistic-complexity): A
+  Complexity](resources.html#linguistic-and-stylistic-complexity): A
   collection of measures that assess the linguistic and stylistic
   complexity of (literary) texts.
   <https://github.com/tsproisl/Linguistic_and_Stylistic_Complexity>
