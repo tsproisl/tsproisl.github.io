@@ -141,4 +141,9 @@ normalized and lemmatized the data and converted the corpus into a
 “vertical” format suitable for importing into the Open Corpus
 Workbench, CQPweb, SketchEngine, or similar corpus tools.
 
+Normalization and lemmatization added in collaboration with Natalie
+Dykes, [Philipp Heinrich](https://philipp-heinrich.eu/), [Besim
+Kabashi](http://besim-kabashi.net/) and [Stefan
+Evert](http://stefan-evert.de/)
+
 <https://github.com/fau-klue/empirist-corpus>
