@@ -50,7 +50,7 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 <!-- Kabashi et al. APCLA -->
-- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
+- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib)]
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
 - [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
