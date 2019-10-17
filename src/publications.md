@@ -50,24 +50,26 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 <!-- Kabashi et al. APCLA -->
-- [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)]
+- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib)] <!-- invited -->
+- [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib)]
+- [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
 - [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
 - [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
 - [@Evert_et_al_Euralex:2018] [[bib](bib/Evert_et_al_Euralex:2018.bib), [pdf](pdf/abstract_evert_et_al_2018_euralex.pdf)]
 - [@Proisl_Evert_DHd:2018] [[bib](bib/Proisl_Evert_DHd:2018.bib), [poster](pdf/poster_proisl_evert_2018_dhd.pdf), [pdf](pdf/abstract_proisl_evert_2018_dhd.pdf)]
-- [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_buettner_proisl_2016_philtag.pdf)]
+- [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_buettner_proisl_2016_philtag.pdf)] <!-- invited -->
 - [@Evert_et_al_DH:2016] [[bib](bib/Evert_et_al_DH:2016.bib), [pdf](pdf/abstract_evert_et_al_2016_dh.pdf)]
-- [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_evert_proisl_2016_philtag.pdf)]
+- [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_evert_proisl_2016_philtag.pdf)] <!-- invited -->
 - [@Bartsch_et_al_ICAME:2015] [[bib](bib/Bartsch_et_al_ICAME:2015.bib), [pdf](pdf/abstract_bartsch_et_al_2015_icame.pdf)]
 - [@Evert_et_al_CL:2015] [[bib](bib/Evert_et_al_CL:2015.bib), [pdf](pdf/abstract_evert_et_al_2015_cl.pdf)]
-- [@Proisl_DARIAH:2015] [[bib](bib/Proisl_DARIAH:2015.bib)]
+- [@Proisl_DARIAH:2015] [[bib](bib/Proisl_DARIAH:2015.bib)] <!-- invited -->
 - [@Proisl_Uhrig_DGfS:2013] [[bib](bib/Proisl_Uhrig_DGfS:2013.bib), [pdf](pdf/abstract_proisl_uhrig_2013_dgfs.pdf)]
 - [@Proisl_Uhrig_ICAME:2012] [[bib](bib/Proisl_Uhrig_ICAME:2012.bib), [pdf](pdf/abstract_proisl_uhrig_2012_icame.pdf)]
-- [@Uhrig_Proisl_Bamberg:2012] [[bib](bib/Uhrig_Proisl_Bamberg:2012.bib)]
+- [@Uhrig_Proisl_Bamberg:2012] [[bib](bib/Uhrig_Proisl_Bamberg:2012.bib)] <!-- invited -->
 - [@Uhrig_Proisl_GAL:2012] [[bib](bib/Uhrig_Proisl_GAL:2012.bib), [pdf](pdf/abstract_uhrig_proisl_2012_gal.pdf)]
-- [@Uhrig_Proisl_DHE:2012] [[bib](bib/Uhrig_Proisl_DHE:2012.bib)]
+- [@Uhrig_Proisl_DHE:2012] [[bib](bib/Uhrig_Proisl_DHE:2012.bib)] <!-- invited -->
 - [@Proisl_Uhrig_GAL:2011] [[bib](bib/Proisl_Uhrig_GAL:2011.bib), [pdf](pdf/abstract_proisl_uhrig_2011_gal.pdf)]
 - [@Uhrig_Proisl_CL:2011] [[bib](bib/Uhrig_Proisl_CL:2011.bib), [pdf](pdf/abstract_uhrig_proisl_2011_cl.pdf)]
-- [@Uhrig_Proisl_IZLVK:2011] [[bib](bib/Uhrig_Proisl_IZLVK:2011.bib)]
+- [@Uhrig_Proisl_IZLVK:2011] [[bib](bib/Uhrig_Proisl_IZLVK:2011.bib)] <!-- invited -->
 - [@Uhrig_Proisl_ICAME:2011] [[bib](bib/Uhrig_Proisl_ICAME:2011.bib)]
 - [@Uhrig_et_al_IDS:2010] [[bib](bib/Uhrig_et_al_IDS:2010.bib)]
