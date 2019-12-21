@@ -24,7 +24,10 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
+<!-- Proisl et al. LREC -->
+<!-- Blombach et al. LREC -->
 <!-- Proisl et al. NSURL -->
+- [@Proisl_et_al_NSURL:2019]
 - [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 - [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
@@ -49,9 +52,11 @@ csl: chicago-author-date.csl
 
 ## Talks and presentations ##
 
+<!-- DH 2020 -->
+<!-- Blombach et al. ICAME Workshop -->
 <!-- Kabashi et al. APCLA -->
 - [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
-- [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib)]
+- [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
 - [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
 - [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
