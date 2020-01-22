@@ -7,6 +7,7 @@ lang: en
 
 ## Corpus and Computational Linguistics (Erlangen) ##
 
+- Übung Statistik (SS 2020)
 - Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
   WS 2019)
 - Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS
