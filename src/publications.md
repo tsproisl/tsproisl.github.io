@@ -55,7 +55,7 @@ csl: chicago-author-date.csl
 <!-- - [@Kabashi_et_al_APCLC:2020] -->
 <!-- - [@Blombach_et_al_SciFi:2020] -->
 <!-- - [@Proisl_et_al_DGfS:2020] -->
-<!-- - [@Blombach_Proisl_HiGoe:2020] -->
+- [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)]
 - [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
