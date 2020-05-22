@@ -18,6 +18,7 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
+<!-- - [Proisl_IJCL:2020] -->
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
 - [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib), [pdf](pdf/uhrig_proisl_2012_lexicographica.pdf)]
