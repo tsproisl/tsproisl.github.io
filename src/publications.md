@@ -25,9 +25,9 @@ csl: chicago-author-date.csl
 ## Articles in conference proceedings and collections ##
 
 <!-- - [@Jannidis_et_al_DH:2020] -->
-<!-- - [@Proisl_et_al_LREC:2020] -->
-<!-- - [@Blombach_et_al_LREC:2020] -->
 - [@Proisl_et_al_NSURL:2019]
+- [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf)]
+- [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf)]
 - [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
 - [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
 - [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
