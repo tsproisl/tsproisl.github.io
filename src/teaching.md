@@ -7,9 +7,10 @@ lang: en
 
 ## Corpus and Computational Linguistics (Erlangen) ##
 
-- Statistik für Korpuslinguisten (SS 2020)
 - Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
-  WS 2019)
+  WS 2019, WS 2020 (jointly with [Natalie
+  Dykes](https://twitter.com/na_sy_tr)))
+- Statistik für Korpuslinguisten (SS 2020)
 - Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS
   2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)),
   WS 2019)
