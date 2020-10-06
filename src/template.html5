@@ -14,12 +14,12 @@ $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
-  <style type="text/css">code{white-space: pre;}</style>
+  <style>code{white-space: pre;}</style>
 $if(quotes)$
-  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+  <style>q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
 $if(highlighting-css)$
-  <style type="text/css">
+  <style>
 $highlighting-css$
   </style>
 $endif$
@@ -61,6 +61,7 @@ $toc$
 </nav>
 $endif$
 $body$
+</main>
 $for(include-after)$
 $include-after$
 $endfor$

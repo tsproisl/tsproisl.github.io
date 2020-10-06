@@ -14,7 +14,11 @@ csl: chicago-author-date.csl
 
 ## Books ##
 
-- <div class="book"><div class="bibentry">[@Proisl:2019] [[bib](bib/Proisl:2019.bib), [Pareidoscope](https://github.com/tsproisl/Pareidoscope)]</div><div class="cover">[![Proisl, Thomas. 2019. The Cooccurrence of Linguistic Structures. Erlangen: FAU University Press.](img/the_cooccurrence_of_linguistic_structures.jpg){.bookcover}](https://doi.org/10.25593/978-3-96147-201-7)</div>
+- <div class="book">
+    <div class="bibentry">[@Proisl:2019] [[bib](bib/Proisl:2019.bib), [Pareidoscope](https://github.com/tsproisl/Pareidoscope)]</div>
+	<!-- <p>Award: Staedtler Promotionspreis</p></div> -->
+    <div class="cover">[![Proisl, Thomas. 2019. The Cooccurrence of Linguistic Structures. Erlangen: FAU University Press.](img/the_cooccurrence_of_linguistic_structures.jpg){.bookcover}](https://doi.org/10.25593/978-3-96147-201-7)</div>
+  </div>
 
 ## Journal articles ##
 
@@ -25,7 +29,6 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
-<!-- - [@Jannidis_et_al_DH:2020] -->
 - [@Proisl_et_al_NSURL:2019]
 - [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf)]
 - [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf)]
