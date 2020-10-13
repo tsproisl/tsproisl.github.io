@@ -6,7 +6,10 @@ lang: en
 
 ## Professional service ##
 
-  * Reviewer for
-	* [Digital Scholarship in the Humanities](https://academic.oup.com/dsh/)
-	* [Künstliche Intelligenz](https://fb-ki.gi.de/ki-zeitschrift/)
-	* [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+
+ * Reviewer for
+     * [Digital Scholarship in the Humanities](https://academic.oup.com/dsh/)
+     * [Künstliche Intelligenz](https://fb-ki.gi.de/ki-zeitschrift/)
+     * [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+     * Language Resources and Evaluation (LREV)
+     * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
