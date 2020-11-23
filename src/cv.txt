@@ -13,3 +13,4 @@ lang: en
      * [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
      * Language Resources and Evaluation (LREV)
      * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+     * Linguistics Vanguard
