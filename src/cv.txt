@@ -14,3 +14,16 @@ lang: en
      * Language Resources and Evaluation (LREV)
      * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
      * Linguistics Vanguard
+
+ * Conferences
+     * Digital Humanities (DH)
+     * Digital Humanities im deutschsprachigen Raum (DHd)
+     * International Conference on Language Resources and Evaluation (LREC)
+     * KONVENS
+ * Workshops
+     * EVALITA
+     * SemEval
+     * *SEM
+     * Systems and Frameworks for Computational Morphology (SFCM)
+     * Web as Corpus Workshop (WAC)
+     * Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)
