@@ -29,7 +29,7 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
-<!-- - [@Proisl_Lapesa_EVALITA:2020] -->
+- [@Proisl_Lapesa_EVALITA:2020] [[bib](bib/Proisl_Lapesa_EVALITA:2020.bib), [pdf](pdf/proisl_lapesa_2020_evalita.pdf)]
 - [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf)]
 - [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf)]
 - [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
