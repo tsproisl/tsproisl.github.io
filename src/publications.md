@@ -29,8 +29,8 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
-- [@Proisl_Lapesa_EVALITA:2020] [[bib](bib/Proisl_Lapesa_EVALITA:2020.bib), [video](https://vimeo.com/484110489), [pdf](pdf/proisl_lapesa_2020_evalita.pdf)]
 - [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf)]
+- [@Proisl_Lapesa_EVALITA:2020] [[bib](bib/Proisl_Lapesa_EVALITA:2020.bib), [video](https://vimeo.com/484110489), [pdf](pdf/proisl_lapesa_2020_evalita.pdf)]
 - [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf)]
 - [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
 - [@Proisl_et_al_NSURL:2019] [[bib](bib/Proisl_et_al_NSURL:2019.bib), [pdf](pdf/proisl_et_al_2019_nsurl.pdf)]
@@ -59,18 +59,18 @@ csl: chicago-author-date.csl
 
 <!-- - [@Kabashi_et_al_APCLC:2020] -->
 <!-- - [@Blombach_et_al_SciFi:2020] -->
-- [@Proisl_et_al_DGfS:2020] [[bib](Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
 - [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
-- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
+- [@Proisl_et_al_DGfS:2020] [[bib](Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
 - [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
+- [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
+- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
 - [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
-- [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
 - [@Evert_et_al_Euralex:2018] [[bib](bib/Evert_et_al_Euralex:2018.bib), [pdf](pdf/abstract_evert_et_al_2018_euralex.pdf)]
 - [@Proisl_Evert_DHd:2018] [[bib](bib/Proisl_Evert_DHd:2018.bib), [poster](pdf/poster_proisl_evert_2018_dhd.pdf), [pdf](pdf/abstract_proisl_evert_2018_dhd.pdf)]
 - [@Buettner_Proisl_Philtag:2016] [[bib](bib/Buettner_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_buettner_proisl_2016_philtag.pdf)] <!-- invited -->
-- [@Evert_et_al_DH:2016] [[bib](bib/Evert_et_al_DH:2016.bib), [pdf](pdf/abstract_evert_et_al_2016_dh.pdf)]
 - [@Evert_Proisl_Philtag:2016] [[bib](bib/Evert_Proisl_Philtag:2016.bib), [pdf](pdf/abstract_evert_proisl_2016_philtag.pdf)] <!-- invited -->
+- [@Evert_et_al_DH:2016] [[bib](bib/Evert_et_al_DH:2016.bib), [pdf](pdf/abstract_evert_et_al_2016_dh.pdf)]
 - [@Bartsch_et_al_ICAME:2015] [[bib](bib/Bartsch_et_al_ICAME:2015.bib), [pdf](pdf/abstract_bartsch_et_al_2015_icame.pdf)]
 - [@Evert_et_al_CL:2015] [[bib](bib/Evert_et_al_CL:2015.bib), [pdf](pdf/abstract_evert_et_al_2015_cl.pdf)]
 - [@Proisl_DARIAH:2015] [[bib](bib/Proisl_DARIAH:2015.bib)] <!-- invited -->
