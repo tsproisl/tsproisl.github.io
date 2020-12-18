@@ -104,11 +104,9 @@ complexity.
 
 ### Software ###
 
-- [Linguistic and Stylistic
-  Complexity](resources.html#linguistic-and-stylistic-complexity): A
-  collection of measures that assess the linguistic and stylistic
-  complexity of (literary) texts.
-  <https://github.com/tsproisl/Linguistic_and_Stylistic_Complexity>
+- [Textcomplexity](resources.html#textcomplexity): A collection of
+  measures that assess the linguistic and stylistic complexity of
+  (literary) texts. <https://github.com/tsproisl/textcomplexity>
 
 ### Key publications ###
 
