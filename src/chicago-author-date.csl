@@ -27,10 +27,13 @@
       <email>matthew.g.roth@yale.edu</email>
       <uri> https://orcid.org/0000-0001-7902-6331</uri>
     </contributor>
+    <contributor>
+      <name>Brenton M. Wiernik</name>
+    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The author-date variant of the Chicago style</summary>
-    <updated>2018-05-22T00:59:23+00:00</updated>
+    <updated>2020-04-26T18:22:50+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -44,7 +47,7 @@
   </locale>
   <macro name="secondary-contributors">
     <choose>
-      <if type="chapter paper-conference" match="none">
+      <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
         <group delimiter=". ">
           <names variable="editor translator" delimiter=". ">
             <label form="verb" text-case="capitalize-first" suffix=" "/>
@@ -60,7 +63,7 @@
   </macro>
   <macro name="container-contributors">
     <choose>
-      <if type="chapter paper-conference" match="any">
+      <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <group prefix=", " delimiter=", ">
           <names variable="container-author" delimiter=", ">
             <label form="verb" suffix=" "/>
@@ -253,7 +256,7 @@
           </else>
         </choose>
       </if>
-      <else-if type="chapter paper-conference" match="any">
+      <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <choose>
           <if is-numeric="edition">
             <group delimiter=" " prefix=", ">
@@ -320,7 +323,7 @@
           </group>
         </group>
       </else-if>
-      <else-if type="chapter paper-conference" match="any">
+      <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <choose>
           <if variable="page" match="none">
             <group prefix=". ">
@@ -334,7 +337,7 @@
   </macro>
   <macro name="locators-chapter">
     <choose>
-      <if type="chapter paper-conference" match="any">
+      <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <choose>
           <if variable="page">
             <group prefix=", ">
@@ -410,7 +413,7 @@
   </macro>
   <macro name="container-title">
     <choose>
-      <if type="chapter paper-conference" match="any">
+      <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <text macro="container-prefix" suffix=" "/>
       </if>
     </choose>
@@ -509,8 +512,15 @@
     </choose>
   </macro>
   <macro name="event">
-    <group>
-      <text term="presented at" suffix=" "/>
+    <group delimiter=" ">
+      <choose>
+        <if variable="genre">
+          <text term="presented at"/>
+        </if>
+        <else>
+          <text term="presented at" text-case="capitalize-first"/>
+        </else>
+      </choose>
       <text variable="event"/>
     </group>
   </macro>
@@ -597,7 +607,7 @@
       </else>
     </choose>
   </macro>
-  <!-- <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name" collapse="year"> -->
+  <!-- <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name" collapse="year" after-collapse-delimiter="; "> -->
   <!--   <layout prefix="(" suffix=")" delimiter="; "> -->
   <!--     <group delimiter=", "> -->
   <!--       <choose> -->
@@ -607,7 +617,7 @@
   <!--             <text macro="date-in-text"/> -->
   <!--           </group> -->
   <!--         </if> -->
-          <!---comma before forthcoming and n.d.-->
+  <!--         <!-\-\-comma before forthcoming and n.d.-\-> -->
   <!--         <else> -->
   <!--           <group delimiter=", "> -->
   <!--             <text macro="contributors-short"/> -->
@@ -619,7 +629,13 @@
   <!--     </group> -->
   <!--   </layout> -->
   <!-- </citation> -->
-  <citation et-al-min="25" et-al-use-first="1" disambiguate-add-year-suffix="false" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name" collapse="year">
+  <citation et-al-min="25" et-al-use-first="1" disambiguate-add-year-suffix="false" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name" collapse="year" after-collapse-delimiter="; ">
+  <!-- <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="7" subsequent-author-substitute="&#8212;&#8212;&#8212;" entry-spacing="0"> -->
+  <!--   <sort> -->
+  <!--     <key macro="contributors"/> -->
+  <!--     <key variable="issued"/> -->
+  <!--     <key variable="title"/> -->
+  <!--   </sort> -->
     <layout suffix=".">
       <group delimiter=". ">
         <text macro="contributors"/>
@@ -639,5 +655,6 @@
       <text macro="locators-article"/>
       <text macro="access" prefix=". "/>
     </layout>
+  <!-- </bibliography> -->
   </citation>
 </style>
