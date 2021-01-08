@@ -63,7 +63,7 @@ csl: chicago-author-date.csl
 - [@Proisl_et_al_DGfS:2020] [[bib](Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
 - [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
 - [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
-- [@Proisl_Heinrich_ARD:2019] [[bib](Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
+- [@Proisl_Heinrich_ARD:2019] [[bib](bib/Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
 - [@Proisl_et_al_DHd:2019] [[bib](bib/Proisl_et_al_DHd:2019.bib), [poster](pdf/poster_proisl_et_al_2019_dhd.pdf), [pdf](pdf/abstract_proisl_et_al_2019_dhd.pdf)]
 - [@Evert_et_al_Euralex:2018] [[bib](bib/Evert_et_al_Euralex:2018.bib), [pdf](pdf/abstract_evert_et_al_2018_euralex.pdf)]
