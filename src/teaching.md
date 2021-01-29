@@ -7,6 +7,7 @@ lang: en
 
 ## Corpus and Computational Linguistics (Erlangen) ##
 
+- Grundseminar Programmierung Python (SS 2013, SS 2016, SS 2021)
 - Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
   WS 2019, WS 2020 (jointly with [Natalie
   Dykes](https://twitter.com/na_sy_tr)))
@@ -15,7 +16,6 @@ lang: en
   2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)),
   WS 2019)
 - Übung Grundlagen der Computerlinguistik 2 (SS 2018)
-- Grundseminar Programmierung Python (SS 2013, SS 2016)
 - Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS 2017)
 - Fortgeschrittene statistische Methoden in der Korpuslinguistik (SS 2015)
 - The corpus linguist's essential toolbox (SS 2013 (jointly with [Paul
@@ -34,6 +34,11 @@ lang: en
 - Methoden des Textmining (SS 2009)
 
 
+<!-- ## Germanistische Linguistik (Göttingen) ## -->
+
+<!-- - Einführung in korpuslinguistische Methoden (SS 2021) -->
+
+
 ## Computational Linguistics (Osnabrück) ##
 
 - Introduction to Computational Linguistics (SS 2019)
@@ -45,7 +50,8 @@ lang: en
 
 - Introduction to Corpus Linguistics (SS 2012)
 - Doing empirical research with corpora (WS 2011)
-- Heavy rains and thunderstorms – Exploring English by means of electronic resources (SS 2009)
+- Heavy rains and thunderstorms – Exploring English by means of
+  electronic resources (SS 2009)
 
 
 <!-- ## Supervised theses ## -->
