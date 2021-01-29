@@ -11,9 +11,10 @@ lang: en
      * [Digital Scholarship in the Humanities](https://academic.oup.com/dsh/)
      * [Künstliche Intelligenz](https://fb-ki.gi.de/ki-zeitschrift/)
      * [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
-     * Language Resources and Evaluation (LREV)
-     * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
-     * Linguistics Vanguard
+     * [Language Resources and Evaluation (LREV)](https://www.springer.com/journal/10579/)
+     * [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)
+     * [Linguistics Vanguard](https://www.degruyter.com/view/journals/lingvan/lingvan-overview.xml)
+     * [Language Technology and Computational Linguistics (JLCL)](https://www.jlcl.org/)
 
  * Reviewer for books
      * Günther Görz, Ute Schmid und Tanya Braun (Hrsg.). 2021.
