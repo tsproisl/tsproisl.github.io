@@ -41,7 +41,7 @@ csl: chicago-author-date.csl
 - [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib), [pdf](pdf/proisl_et_al_2018_lrec.pdf)]
 - [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/), [pdf](pdf/evert_et_al_2017_elex.pdf)]
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
-- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib)]
+- [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib), [pdf](pdf/evert_et_al_2016_dhd.pdf)]
 - [@Kabashi_Proisl_LREC:2016] [[bib](bib/Kabashi_Proisl_LREC:2016.bib), [pdf](pdf/kabashi_proisl_2016_lrec.pdf)]
 - [@Proisl_Uhrig_EmpiriST:2016] [[bib](bib/Proisl_Uhrig_EmpiriST:2016.bib), [pdf](pdf/proisl_uhrig_2016_empirist.pdf)]
 - [@Evert_et_al_CLfL:2015] [[bib](bib/Evert_et_al_CLfL:2015.bib), [pdf](pdf/evert_et_al_2015_clfl.pdf)]
