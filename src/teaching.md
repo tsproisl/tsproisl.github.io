@@ -34,9 +34,9 @@ lang: en
 - Methoden des Textmining (SS 2009)
 
 
-<!-- ## Germanistische Linguistik (Göttingen) ## -->
+## German Linguistics (Göttingen) ##
 
-<!-- - Einführung in korpuslinguistische Methoden (SS 2021) -->
+- Einführung in korpuslinguistische Methoden (SS 2021)
 
 
 ## Computational Linguistics (Osnabrück) ##
