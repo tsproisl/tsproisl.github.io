@@ -34,11 +34,11 @@ csl: chicago-author-date.csl
 - [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf)]
 - [@Dimpel_Proisl_DHd:2019] [[bib](bib/Dimpel_Proisl_DHd:2019.bib), [pdf](pdf/dimpel_proisl_2019_dhd.pdf)]
 - [@Proisl_et_al_NSURL:2019] [[bib](bib/Proisl_et_al_NSURL:2019.bib), [pdf](pdf/proisl_et_al_2019_nsurl.pdf)]
-- [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
-- [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
 - [@Kabashi_Proisl_LREC:2018] [[bib](bib/Kabashi_Proisl_LREC:2018.bib), [pdf](pdf/kabashi_proisl_2018_lrec.pdf)]
 - [@Proisl_LREC:2018] [[bib](bib/Proisl_LREC:2018.bib), [pdf](pdf/proisl_2018_lrec.pdf)]
 - [@Proisl_et_al_LREC:2018] [[bib](bib/Proisl_et_al_LREC:2018.bib), [pdf](pdf/proisl_et_al_2018_lrec.pdf)]
+- [@Proisl_et_al_IEST:2018] [[bib](bib/Proisl_et_al_IEST:2018.bib), [pdf](pdf/proisl_et_al_2018_iest.pdf)]
+- [@Uhrig_et_al_LCA:2018] [[bib](bib/Uhrig_et_al_LCA:2018.bib)]
 - [@Evert_et_al_eLex:2017] [[bib](bib/Evert_et_al_eLex:2017.bib), [video](https://www.youtube.com/watch?v=xYo3wTRx8F8), [E-VIEW-alation](http://www.collocations.de/eviewalation/), [pdf](pdf/evert_et_al_2017_elex.pdf)]
 - [@Proisl_et_al_TIAD:2017] [[bib](bib/Proisl_et_al_TIAD:2017.bib), [pdf](pdf/proisl_et_al_2017_tiad.pdf)]
 - [@Evert_et_al_DHd:2016] [[bib](bib/Evert_et_al_DHd:2016.bib), [pdf](pdf/evert_et_al_2016_dhd.pdf)]
@@ -58,7 +58,7 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 <!-- - [@Kabashi_et_al_APCLC:2020] -->
-<!-- - [@Blombach_et_al_SciFi:2020] -->
+<!-- - [@Blombach_et_al_SciFi:2021] -->
 - [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
 - [@Proisl_et_al_DGfS:2020] [[bib](Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
 - [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
