@@ -19,7 +19,7 @@ lang: en
  * Reviewer for books
      * Günther Görz, Ute Schmid und Tanya Braun (Hrsg.). 2021.
        *Handbuch der Künstlichen Intelligenz*. 6. Auflage. De Gruyter.
-       <https://doi.org/10.1515/978311065994>.
+       <https://doi.org/10.1515/9783110659948>.
 
  * Conferences
      * Digital Humanities (DH)
