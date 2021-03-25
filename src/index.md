@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: About me
 title-prefix: Thomas Proisl
 author: Thomas Proisl
 lang: en
