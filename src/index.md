@@ -42,6 +42,9 @@ E-mail: [thomas.proisl@fau.de](mailto:thomas.proisl@fau.de) \
 Phone: +49 9131 85-25908 \
 Fax: +49 9131 85-29251
 
+**Note:** Due to the ongoing pandemic, I am mostly working from home.
+The best way to contact me is via e-mail.
+
 [GitHub](https://github.com/tsproisl) ·
 [LinkedIn](https://www.linkedin.com/in/thomas-proisl) ·
 [Xing](https://www.xing.com/profile/Thomas_Proisl) ·
