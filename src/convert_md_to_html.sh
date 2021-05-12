@@ -17,6 +17,4 @@ done
 
 rm "$AFTER_BODY"
 
-sed -i -re 's!^(.+) – Welcome</title>$!\1</title>!' ../index.html
-
 python3 split_bibtex.py proisl_bibliography.bib
