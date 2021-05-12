@@ -14,7 +14,7 @@ lang: en
       - [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
           - 2019
       - [Language Resources and Evaluation (LREV)](https://www.springer.com/journal/10579/)
-          - 2020
+          - 2020, 2021
       - [Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)
           - 2020, 2021
       - [Linguistics Vanguard](https://www.degruyter.com/view/journals/lingvan/lingvan-overview.xml)
