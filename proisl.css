@@ -156,3 +156,7 @@ footer {
     color: var(--color_very_dark);
     padding: 0.5em 0.75em;
 }
+
+td {
+    vertical-align: top;
+}
