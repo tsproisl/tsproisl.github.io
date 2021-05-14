@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Thomas Proisl">
+  <title>Thomas Proisl – Curriculum Vitae</title>
+  <style>code{white-space: pre;}</style>
+  <link rel="stylesheet" href="proisl.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $(function(){
+    var url = window.location.href;
+    if (url == "https://thomas-proisl.de/" || url == "https://thomas-proisl.de") {
+      url = "https://thomas-proisl.de/index.html"
+    }
+    url = url.replace(/#.+$/, "");
+    $("nav a").each(function() {
+      if (url == (this.href)) {
+        $(this).addClass("current");
+      }
+    });
+    $("#topnav_id").attr("class", "topnav_js");
+    $("#menu_link_id").attr("class", "menu_link_js");
+  });
+  /* Add/remove the "responsive" class when clicking on the menu icon */
+  function toggle_nav() {
+    var navi = document.getElementById("topnav_id");
+    if (navi.className === "topnav_js") {
+      navi.className += " responsive";
+    } else {
+      navi.className = "topnav_js";
+    }
+  } 
+</script>
+
+<header>
+  <h1>
+    <a href="https://thomas-proisl.de">Thomas Proisl</a>
+    <a href="javascript:void(0);" class="menu_link" id="menu_link_id" onclick="toggle_nav()">
+      <img src="menu_icon.svg" alt="menu button" id="menu_icon"/>
+    </a>
+  </h1>
+</header>
+<nav class="topnav" id="topnav_id">
+  <a href="index.html">Home</a>
+  <a href="research.html">Research</a>
+  <a href="publications.html">Publications</a>
+  <a href="resources.html">Resources</a>
+  <a href="teaching.html">Teaching</a>
+  <a href="cv.html">CV</a>
+</nav>
+<main>
+<!-- <header> -->
+<h1 class="title">Curriculum Vitae</h1>
+<!--  -->
+<!-- <h2 class="author">Thomas Proisl</h2> -->
+<!--  -->
+<!--  -->
+<!-- </header> -->
+<ul>
+<li><a href="#education-and-work">Education and work</a></li>
+<li><a href="#events">Events</a></li>
+<li><a href="#reviewing-activity">Reviewing activity</a></li>
+<li><a href="#invited-talks">Invited talks</a></li>
+</ul>
+<h2 id="education-and-work">Education and work</h2>
+<!-- --------------- ------------------------------------------------------ -->
+<!-- _____________________________________________________________ -->
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 84%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>since 2009</strong></td>
+<td style="text-align: left;"><strong>Researcher</strong> at the <a href="https://www.linguistik.fau.de">Chair for Corpus and Computational Linguistics</a>, <a href="https://www.fau.de">FAU Erlangen-Nürnberg</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021</td>
+<td style="text-align: left;"><strong>Visiting lecturer</strong> at the department for German Linguistics, <a href="https://www.uni-goettingen.de">University of Göttingen</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2019</td>
+<td style="text-align: left;"><strong>Interim professor</strong> for Computational Linguistics and Cognitive Science at the <a href="https://www.ikw.uni-osnabrueck.de">Institute of Cognitive Science</a>, <a href="https://www.uni-osnabrueck.de">University of Osnabrück</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2018</td>
+<td style="text-align: left;"><strong>Dr. phil.</strong> in Computational Linguistics, FAU Erlangen-Nürnberg.<br />
+Thesis: <em>The Cooccurrence of Linguistic Structures</em>, awarded the <strong>STAEDTLER Promotionspreis</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2014</td>
+<td style="text-align: left;"><strong>Research Assistant</strong> at Symanto Research GmbH &amp; Co. KG</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2009–2014</td>
+<td style="text-align: left;">Various contracts as <strong>Researcher</strong> and <strong>Lecturer</strong> at the Chair for English Linguistics, FAU Erlangen-Nürnberg</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2009</td>
+<td style="text-align: left;">Certificate: <strong>European Masters of Language and Speech</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2005–2009</td>
+<td style="text-align: left;"><strong>M.A.</strong> in Computational Linguistics and English Linguistics, FAU Erlangen-Nürnberg.<br />
+Thesis: <em>Integration von Valenzdaten in die grammatische Analyse unter Verwendung des</em> Valency Dictionary of English</td>
+</tr>
+</tbody>
+</table>
+<h2 id="events">Events</h2>
+<ul>
+<li>Co-organization of the <a href="https://2019.konvens.org/">15th Conference on Natural Language Processing (KONVENS 2019)</a> in Erlangen, 8–11 October 2019 (with Stefan Evert, Andreas Blombach, Natalie Dykes, Paul Greiner, Tim Griebel, Philipp Heinrich, Besim Kabashi and Tanja Schorr)</li>
+<li>Co-organization of the GermEval 2019 shared task on the <a href="https://fau-klue.github.io/empirist-lemmatization/">lemmatization of German web and social media data (EmpiriST-lemmatization 2019)</a> in Erlangen, 8 October 2019 (with Natalie Dykes, Stefan Evert, Philipp Heinrich, Besim Kabashi)</li>
+</ul>
+<h2 id="reviewing-activity">Reviewing activity</h2>
+<h3 id="journals">Journals</h3>
+<ul>
+<li><a href="https://academic.oup.com/dsh/">Digital Scholarship in the Humanities</a> (2019)</li>
+<li><a href="https://fb-ki.gi.de/ki-zeitschrift/">Künstliche Intelligenz</a> (2017)</li>
+<li><a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a> (2019)</li>
+<li><a href="https://www.springer.com/journal/10579/">Language Resources and Evaluation (LREV)</a> (2020, 2021)</li>
+<li><a href="https://dl.acm.org/journal/tallip">Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</a> (2020, 2021)</li>
+<li><a href="https://www.degruyter.com/view/journals/lingvan/lingvan-overview.xml">Linguistics Vanguard</a> (2020)</li>
+<li><a href="https://www.jlcl.org/">Language Technology and Computational Linguistics (JLCL)</a> (2021)</li>
+</ul>
+<h3 id="publishers">Publishers</h3>
+<ul>
+<li>De Gruyter <!-- - 2020: Günther Görz, Ute Schmid und Tanya Braun (Hrsg.). 2021. --> <!--   *Handbuch der Künstlichen Intelligenz*. 6. Auflage. De --> <!--   Gruyter. <https://doi.org/10.1515/9783110659948>. --></li>
+</ul>
+<h3 id="conferences">Conferences</h3>
+<ul>
+<li>Digital Humanities (DH)</li>
+<li>Digital Humanities im deutschsprachigen Raum (DHd)</li>
+<li>International Conference on Language Resources and Evaluation (LREC)</li>
+<li>KONVENS</li>
+</ul>
+<h3 id="workshops-and-shared-tasks">Workshops and shared tasks</h3>
+<ul>
+<li>EVALITA</li>
+<li>SemEval</li>
+<li>*SEM</li>
+<li>Systems and Frameworks for Computational Morphology (SFCM)</li>
+<li>Web as Corpus Workshop (WAC)</li>
+<li>Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)</li>
+</ul>
+<h2 id="invited-talks">Invited talks</h2>
+<ul>
+<li><span class="citation" data-cites="Blombach_Proisl_HiGoe:2020">Blombach, Andreas, and Thomas Proisl. 2020. “Unexpected Complexity and Romance in Disguise: The Case of Science Fiction Novels and Fanfiction.” Presentation at 9th Hildesheim-Göttingen-Workshop on DH and CL. Göttingen.</span> [<a href="Blombach_Proisl_HiGoe:2020.bib">bib</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Proisl_Heinrich_ARD:2019">Proisl, Thomas, and Philipp Heinrich. 2019. “NLP for German CMC Data.” Poster presentation at Amazon Research Days. Berlin.</span> [<a href="bib/Proisl_Heinrich_ARD:2019.bib">bib</a>, <a href="pdf/poster_proisl_heinrich_2019_ard.pdf">poster</a>, <a href="pdf/abstract_proisl_heinrich_2019_ard.pdf">pdf</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Proisl_et_al_ANSC:2019">Proisl, Thomas, Natalie Dykes, Besim Kabashi, Philipp Heinrich, and Andreas Blombach. 2019. “NLP for German CMC Texts: Tokenization, POS Tagging, and a New Gold Standard for Lemmatization.” Presentation at Annotation of Non-Standard Corpora. Bamberg.</span> [<a href="Proisl_et_al_ANSC:2019.bib">bib</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Buettner_Proisl_Philtag:2016">Büttner, Andreas, and Thomas Proisl. 2016. “Delta und Merkmalsselektion: Welche Wörter unterscheiden arabisch-lateinische Übersetzer?” Presentation at &lt;philtag n="13"/&gt;. Würzburg. <a href="http://kallimachos.de/kallimachos/images/kallimachos/f/f5/Abstract%C3%9Cbersetzer.pdf">http://kallimachos.de/kallimachos/images/kallimachos/f/f5/Abstract%C3%9Cbersetzer.pdf</a>.</span> [<a href="bib/Buettner_Proisl_Philtag:2016.bib">bib</a>, <a href="pdf/abstract_buettner_proisl_2016_philtag.pdf">pdf</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Evert_Proisl_Philtag:2016">Evert, Stefan, and Thomas Proisl. 2016. “Burrows’s Delta verstehen.” Presentation at &lt;philtag n="13"/&gt;. Würzburg. <a href="http://kallimachos.de/kallimachos/images/kallimachos/b/bf/AbstractFAU.pdf">http://kallimachos.de/kallimachos/images/kallimachos/b/bf/AbstractFAU.pdf</a>.</span> [<a href="bib/Evert_Proisl_Philtag:2016.bib">bib</a>, <a href="pdf/abstract_evert_proisl_2016_philtag.pdf">pdf</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Proisl_DARIAH:2015">Proisl, Thomas. 2015. “Maschinelles Lernen mit Python.” Presentation at DARIAH-Methodenworkshop Natural Language Processing für Literaturwissenschaftler. Würzburg.</span> [<a href="bib/Proisl_DARIAH:2015.bib">bib</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Uhrig_Proisl_Bamberg:2012">Uhrig, Peter, and Thomas Proisl. 2012. “A Fast and User-Friendly Interface for Large Treebanks.” Presentation at Otto-Friedrich-Universität Bamberg.</span> [<a href="bib/Uhrig_Proisl_Bamberg:2012.bib">bib</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Uhrig_Proisl_DHE:2012">Uhrig, Peter, and Thomas Proisl. 2012. “Sprachstrukturen effizient speichern, verarbeiten und abfragen.” Presentation at Vortragsreihe <em>Digital Humanities</em>. Erlangen.</span> [<a href="bib/Uhrig_Proisl_DHE:2012.bib">bib</a>] <!-- invited --></li>
+<li><span class="citation" data-cites="Uhrig_Proisl_IZLVK:2011">Uhrig, Peter, and Thomas Proisl. 2011. “The Erlangen Treebank.” Presentation at Vortragsreihe <em>Approaches to Corpus Linguistics</em>. Erlangen.</span> [<a href="bib/Uhrig_Proisl_IZLVK:2011.bib">bib</a>] <!-- invited --></li>
+</ul>
+</main>
+<footer>
+  Last modified: 2021-05-14.
+</footer>
+</body>
+</html>
