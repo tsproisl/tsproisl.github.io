@@ -99,6 +99,7 @@ csl: chicago-author-date.csl
   - EVALITA
   - SemEval
   - *SEM
+  - SIGTYP
   - Systems and Frameworks for Computational Morphology (SFCM)
   - Web as Corpus Workshop (WAC)
   - Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)
