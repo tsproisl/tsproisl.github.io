@@ -58,10 +58,10 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 <!-- - [@Kabashi_et_al_APCLC:2020] -->
-<!-- - [@Blombach_et_al_SciFi:2021] -->
-- [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
-- [@Proisl_et_al_DGfS:2020] [[bib](Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
-- [@Blombach_et_al_KONVENS:2019] [[bib](Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
+- [@Blombach_et_al_SciFi:2021] [[bib](bib/Blombach_et_al_SciFi:2021.bib), [video](https://www.dropbox.com/sh/2vm4rsxge4mcpvx/AACN1k23_QEcKZqxiXK2xoTxa/Blombach%20et%20al.%20-%20Into%20the%20Perryverse.mp4?dl=1), [pdf](pdf/abstract_blombach_et_al_2021_scifi.pdf)]
+- [@Blombach_Proisl_HiGoe:2020] [[bib](bib/Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
+- [@Proisl_et_al_DGfS:2020] [[bib](bib/Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
+- [@Blombach_et_al_KONVENS:2019] [[bib](bib/Blombach_et_al_KONVENS:2019.bib), [pdf](pdf/abstract_blombach_et_al_2019_konvens.pdf)]
 - [@Diwersy_et_al_EUROPHRAS:2019] [[bib](bib/Diwersy_et_al_EUROPHRAS:2019.bib), [pdf](pdf/abstract_diwersy_et_al_2019_europhras.pdf)]
 - [@Proisl_Heinrich_ARD:2019] [[bib](bib/Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->
