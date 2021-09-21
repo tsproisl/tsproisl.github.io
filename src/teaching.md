@@ -7,16 +7,17 @@ lang: en
 
 ## Corpus and Computational Linguistics (Erlangen) ##
 
-- Grundseminar Programmierung Python (SS 2013, SS 2016, SS 2021)
 - Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
   WS 2019, WS 2020 (jointly with [Natalie
-  Dykes](https://twitter.com/na_sy_tr)))
+  Dykes](https://twitter.com/na_sy_tr)), WS 2021)
+- Grundseminar Programmierung Python (SS 2013, SS 2016, SS 2021)
+- Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS
+  2017, WS 2021)
 - Statistik für Korpuslinguisten (SS 2020)
 - Computerlinguistische Werkzeuge und Infrastrukturen (WS 2017, WS
   2018 (jointly with [Philipp Heinrich](http://philipp-heinrich.eu/)),
   WS 2019)
 - Übung Grundlagen der Computerlinguistik 2 (SS 2018)
-- Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS 2017)
 - Fortgeschrittene statistische Methoden in der Korpuslinguistik (SS 2015)
 - The corpus linguist's essential toolbox (SS 2013 (jointly with [Paul
   Greiner](https://www.paul-greiner.de/)), SS 2014)
