@@ -36,7 +36,8 @@ csl: chicago-author-date.csl
                 Erlangen-Nürnberg.\
 				Thesis: *The Cooccurrence of
 				Linguistic Structures*, awarded the **STAEDTLER
-				Promotionspreis**
+				Promotionspreis** and the **GSCL-Promotionspreis zum
+				Gedenken an Wolfgang Hoeppner**
 
 2014            **Research Assistant** at Symanto Research GmbH & Co.
                 KG
