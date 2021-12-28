@@ -8,7 +8,7 @@ lang: en
 ## Corpus and Computational Linguistics (Erlangen) ##
 
 - Arbeitstechniken der Computerlinguistik (WS 2009, WS 2012, WS 2014,
-  WS 2019, WS 2020 (jointly with [Natalie
+  WS 2019, WS 2020 (jointly with [Nathan
   Dykes](https://twitter.com/na_sy_tr)), WS 2021)
 - Grundseminar Programmierung Python (SS 2013, SS 2016, SS 2021)
 - Aufbauseminar Programmierung Python (WS 2013, WS 2015, WS 2016, WS
