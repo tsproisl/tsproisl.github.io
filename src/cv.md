@@ -107,6 +107,7 @@ csl: chicago-author-date.csl
 
 ## Invited talks
 
+- [@Proisl_GSCL:2022] [[bib](bib/Proisl_GSCL:2022.bib), [pdf](pdf/abstract_proisl_2022_gscl.pdf)] <!-- invited -->
 - [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
 - [@Proisl_Heinrich_ARD:2019] [[bib](bib/Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
 - [@Proisl_et_al_ANSC:2019] [[bib](Proisl_et_al_ANSC:2019.bib)] <!-- invited -->

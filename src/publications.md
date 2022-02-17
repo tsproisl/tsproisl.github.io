@@ -64,6 +64,7 @@ csl: chicago-author-date.csl
 ## Talks and presentations ##
 
 <!-- - [@Kabashi_et_al_APCLC:2020] -->
+- [@Proisl_GSCL:2022] [[bib](bib/Proisl_GSCL:2022.bib), [pdf](pdf/abstract_proisl_2022_gscl.pdf)] <!-- invited -->
 - [@Blombach_et_al_SciFi:2021] [[bib](bib/Blombach_et_al_SciFi:2021.bib), [video](https://www.dropbox.com/sh/2vm4rsxge4mcpvx/AACN1k23_QEcKZqxiXK2xoTxa/Blombach%20et%20al.%20-%20Into%20the%20Perryverse.mp4?dl=1), [pdf](pdf/abstract_blombach_et_al_2021_scifi.pdf)]
 - [@Blombach_Proisl_HiGoe:2020] [[bib](bib/Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
 - [@Proisl_et_al_DGfS:2020] [[bib](bib/Proisl_et_al_DGfS:2020.bib), [poster](pdf/poster_proisl_et_al_2020_dgfs.pdf), [pdf](pdf/abstract_proisl_et_al_2020_dgfs.pdf)]
