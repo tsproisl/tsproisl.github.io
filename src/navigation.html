@@ -1,28 +1,31 @@
-<script src="jquery-3.6.0.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-  $(function(){
-    var url = window.location.href;
-    if (url == "https://thomas-proisl.de/" || url == "https://thomas-proisl.de") {
-      url = "https://thomas-proisl.de/index.html"
-    }
-    url = url.replace(/#.+$/, "");
-    $("nav a").each(function() {
-      if (url == (this.href)) {
-        $(this).addClass("current");
+  document.addEventListener("DOMContentLoaded", markCurrent, false);
+
+  function markCurrent () {
+      var url = window.location.href;
+      if (url == "https://thomas-proisl.de/" || url == "https://thomas-proisl.de") {
+	  url = "https://thomas-proisl.de/index.html"
       }
-    });
-    $("#topnav_id").attr("class", "topnav_js");
-    $("#menu_link_id").attr("class", "menu_link_js");
-  });
+      url = url.replace(/#.+$/, "");
+      const nav_links = document.getElementById("topnav_id").children;
+      for (var i = 0; i < nav_links.length; i++) {
+	  if (nav_links[i].href === url) {
+	      nav_links[i].className = "current";
+	  }
+      }
+      document.getElementById("topnav_id").className = "topnav_js"
+      document.getElementById("menu_link_id").className = "menu_link_js"
+  }
+
   /* Add/remove the "responsive" class when clicking on the menu icon */
   function toggle_nav() {
-    var navi = document.getElementById("topnav_id");
-    if (navi.className === "topnav_js") {
-      navi.className += " responsive";
-    } else {
-      navi.className = "topnav_js";
-    }
-  } 
+      var navi = document.getElementById("topnav_id");
+      if (navi.className === "topnav_js") {
+	  navi.className += " responsive";
+      } else {
+	  navi.className = "topnav_js";
+      }
+  }
 </script>
 
 <header>
