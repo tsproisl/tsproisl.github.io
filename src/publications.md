@@ -28,13 +28,15 @@ csl: chicago-author-date.csl
 
 ## Journal articles ##
 
-<!-- - [Proisl_IJCL:2020] -->
+<!-- - Complexity @ DSH -->
+<!-- - [Proisl_IJCL:2022] -->
 - [@Buettner_et_al_ZfdG:2017] [[bib](bib/Buettner_et_al_ZfdG:2017.bib)]
 - [@Evert_et_al_DSH:2017] [[bib](bib/Evert_et_al_DSH:2017.bib)]
 - [@Uhrig_Proisl_Lexicographica:2012] [[bib](bib/Uhrig_Proisl_Lexicographica:2012.bib), [pdf](pdf/uhrig_proisl_2012_lexicographica.pdf)]
 
 ## Articles in conference proceedings and collections ##
 
+<!-- - Beitrag im LeAK-Sammelband -->
 - [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf), [GeRedE](https://github.com/fau-klue/german-reddit-korpus)]
 - [@Proisl_Lapesa_EVALITA:2020] [[bib](bib/Proisl_Lapesa_EVALITA:2020.bib), [pdf](pdf/proisl_lapesa_2020_evalita.pdf), [video](https://vimeo.com/484110489), [model](https://github.com/tsproisl/SoMeWeTa#spoken_italian)]
 - [@Proisl_et_al_LREC:2020] [[bib](bib/Proisl_et_al_LREC:2020.bib), [pdf](pdf/proisl_et_al_2020_lrec.pdf), [EmpiriST corpus](https://github.com/fau-klue/empirist-corpus)]
@@ -63,7 +65,7 @@ csl: chicago-author-date.csl
 
 ## Talks and presentations ##
 
-<!-- - [@Kabashi_et_al_APCLC:2020] -->
+<!-- - [@Blombach_et_al_DH:2022] [[bib](bib/Blombach_et_al_DH:2022.bib), [pdf](abstract_blombach_et_al_2022_dh.pdf)] -->
 - [@Proisl_GSCL:2022] [[bib](bib/Proisl_GSCL:2022.bib), [pdf](pdf/abstract_proisl_2022_gscl.pdf)] <!-- invited -->
 - [@Blombach_et_al_SciFi:2021] [[bib](bib/Blombach_et_al_SciFi:2021.bib), [video](https://www.dropbox.com/sh/2vm4rsxge4mcpvx/AACN1k23_QEcKZqxiXK2xoTxa/Blombach%20et%20al.%20-%20Into%20the%20Perryverse.mp4?dl=1), [pdf](pdf/abstract_blombach_et_al_2021_scifi.pdf)]
 - [@Blombach_Proisl_HiGoe:2020] [[bib](bib/Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
