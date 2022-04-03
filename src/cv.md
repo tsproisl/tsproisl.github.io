@@ -17,7 +17,10 @@ csl: chicago-author-date.csl
 <!-- --------------- ------------------------------------------------------ -->
 <!-- _____________________________________________________________ -->
 --------------- -----------------------------------------------------------------------------------------
-**since 2009**  **Researcher** at the [Chair for Corpus and
+since 2022      **Data Scientist** at the [Federal Office for
+                Migration and Refugees](https://www.bamf.de)
+
+2009–2022       **Researcher** at the [Chair for Corpus and
                 Computational
                 Linguistics](https://www.linguistik.fau.de), [FAU
                 Erlangen-Nürnberg](https://www.fau.de)
