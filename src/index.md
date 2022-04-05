@@ -30,23 +30,7 @@ teaching activities.
 
 ## Contact
 
-<!-- Dr. Thomas Proisl \ -->
-<!-- Universität Osnabrück \ -->
-<!-- Institut für Kognitionswissenschaft \ -->
-<!-- Wachsbleiche 27, Raum 50/122 \ -->
-<!-- 49090 Osnabrück \ -->
-<!-- Germany -->
-
-<!-- E-mail: [thomas.proisl@uni-osnabrueck.de](mailto:thomas.proisl@uni-osnabrueck.de) \ -->
-<!-- Phone: +49 541 969-3532 \ -->
-<!-- Fax: +49 541 969-3381 -->
-
-<!-- Dr. Thomas Proisl \ -->
-<!-- Friedrich-Alexander-Universität Erlangen-Nürnberg \ -->
-<!-- Lehrstuhl für Korpus- und Computerlinguistik \ -->
-<!-- Bismarckstr. 6 \ -->
-<!-- 91054 Erlangen \ -->
-<!-- Germany -->
+E-mail: [thomas.proisl@fau.de](mailto:thomas.proisl@fau.de) \
 
 Dr. Thomas Proisl \
 Bundesamt für Migration und Flüchtlinge \
@@ -54,13 +38,6 @@ Referat 21D \
 Frankenstr. 210 \
 90461 Nürnberg \
 Germany
-
-E-mail: [thomas.proisl@fau.de](mailto:thomas.proisl@fau.de) \
-<!-- Phone: +49 9131 85-25908 \ -->
-<!-- Fax: +49 9131 85-29251 -->
-
-<!-- **Note:** Due to the ongoing pandemic, I am mostly working from home. -->
-<!-- The best way to contact me is via e-mail. -->
 
 [GitHub](https://github.com/tsproisl) ·
 [LinkedIn](https://www.linkedin.com/in/thomas-proisl) ·
