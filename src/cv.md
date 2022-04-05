@@ -25,11 +25,11 @@ since 2022      **Data Scientist** at the [Federal Office for
                 Linguistics](https://www.linguistik.fau.de), [FAU
                 Erlangen-Nürnberg](https://www.fau.de)
 
-2021            **Visiting lecturer** at the department for German
+2021            **Visiting Lecturer** at the department for German
                 Linguistics, [University of
 				Göttingen](https://www.uni-goettingen.de)
 
-2019            **Interim professor** for Computational Linguistics
+2019            **Interim Professor** for Computational Linguistics
                 and Cognitive Science at the [Institute of Cognitive
 				Science](https://www.ikw.uni-osnabrueck.de),
 				[University of
