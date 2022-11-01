@@ -110,6 +110,7 @@ since 2022      **Data Scientist** at the [Federal Office for
 
 ## Invited talks
 
+- [@Proisl_OSCL:2022] [[bib](bib/Proisl_OSCL:2022.bib)] <!-- invited -->
 - [@Proisl_GSCL:2022] [[bib](bib/Proisl_GSCL:2022.bib), [pdf](pdf/abstract_proisl_2022_gscl.pdf)] <!-- invited -->
 - [@Blombach_Proisl_HiGoe:2020] [[bib](Blombach_Proisl_HiGoe:2020.bib)] <!-- invited -->
 - [@Proisl_Heinrich_ARD:2019] [[bib](bib/Proisl_Heinrich_ARD:2019.bib), [poster](pdf/poster_proisl_heinrich_2019_ard.pdf), [pdf](pdf/abstract_proisl_heinrich_2019_ard.pdf)] <!-- invited -->
