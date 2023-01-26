@@ -36,6 +36,7 @@ csl: chicago-author-date.csl
 
 ## Articles in conference proceedings and collections ##
 
+<!-- Herbst/Proisl: A Construction Grammar approach to too and very, collocation and gradability. Intensivierung: Neue Impulse zu einem vielfältigen Phänomen, https://pub.ids-mannheim.de/laufend/amades/ -->
 - [@Adrian_et_al_DigZR:2022] [[bib](bib/Adrian_et_al_DigZR:2022.bib)]
 - [@Blombach_et_al_LREC:2020] [[bib](bib/Blombach_et_al_LREC:2020.bib), [pdf](pdf/blombach_et_al_2020_lrec.pdf), [GeRedE](https://github.com/fau-klue/german-reddit-korpus)]
 - [@Proisl_Lapesa_EVALITA:2020] [[bib](bib/Proisl_Lapesa_EVALITA:2020.bib), [pdf](pdf/proisl_lapesa_2020_evalita.pdf), [video](https://vimeo.com/484110489), [model](https://github.com/tsproisl/SoMeWeTa#spoken_italian)]
