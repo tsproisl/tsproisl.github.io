@@ -1,11 +1,12 @@
 /* colors */
+/* taken from https://tailwindcss.com/docs/customizing-colors */
 :root {
-    --color_main: #1E90FF;
-    --color_dark: #036CD2;
-    --color_very_dark: #063868;
-    --color_light: #6CB7FF;
-    --color_very_light: #AED7FF;
-    --color_font: #333333;
+    --color_main: #0ea5e9;
+    --color_dark: #0369a1;
+    --color_very_dark: #0c4a6e;
+    --color_light: #7dd3fc;
+    --color_very_light: #e0f2fe;
+    --color_font: #1f2937;
 }
 
 #portrait {
