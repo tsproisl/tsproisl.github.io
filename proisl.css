@@ -7,6 +7,7 @@
     --color_light: #7dd3fc;
     --color_very_light: #e0f2fe;
     --color_font: #1f2937;
+    --color_background: #fffbeb;
 }
 
 #portrait {
@@ -35,6 +36,7 @@ div.cover {
 body {
     font-family: Helvetica, sans-serif;
     color: var(--color_font);
+    background-color: var(--color_background);
     max-width: 50em;
     min-width: 20em;
     margin: auto;
@@ -90,7 +92,7 @@ nav {
     overflow: hidden;
     background-color: var(--color_light);
     border-style: solid none none none;
-    border-color: white;
+    border-color: var(--color_background);
     border-width: 0.2em;
 }
 
