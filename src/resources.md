@@ -136,7 +136,8 @@ data](https://www.cl.uni-heidelberg.de/~rehbein/tweeDe.mhtml),
 manually added sentence boundaries and automatically mapped the
 part-of-speech tags to [UD pos
 tags](https://universaldependencies.org/u/pos/all.html). In our own
-annotation efforts (Proisl et al., in preparation), we manually
+annotation efforts ([Proisl et al.
+2020](https://www.aclweb.org/anthology/2020.lrec-1.754)), we manually
 normalized and lemmatized the data and converted the corpus into a
 “vertical” format suitable for importing into the Open Corpus
 Workbench, CQPweb, SketchEngine, or similar corpus tools.
