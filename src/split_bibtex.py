@@ -39,7 +39,8 @@ def entry_generator(f):
 def main():
     args = arguments()
     for key, entry in entry_generator(args.FILE):
-        with open("../bib/%s.bib" % key, mode="w") as out:
+        filename = key.replace(":", "_")
+        with open(f"../bib/{filename}.bib", mode="w") as out:
             out.write("\n".join(entry))
             out.write("\n")
 
